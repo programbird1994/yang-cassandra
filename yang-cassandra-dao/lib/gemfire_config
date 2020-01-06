@@ -1,0 +1,20 @@
+   <mirror>
+    <id>gemfire-release-repo</id>
+    <mirrorOf>gemfire-release-repo</mirrorOf>
+    <name>gemfire repo</name>
+    <url>https://commercial-repo.pivotal.io/data3/gemfire-release-repo/gemfire</url>
+</mirror>
+
+<repositories>
+        <repository>
+            <id>gemfire-release-repo</id>
+            <name>Pivotal GemFire Release Repository</name>
+            <url>https://commercial-repo.pivotal.io/data3/gemfire-release-repo/gemfire</url>
+        </repository>
+    </repositories>
+
+      <server>
+                    <id>gemfire-release-repo</id>
+                    <username>156724640@qq.com</username>
+                    <password>1994120610Hu</password>
+                </server>
